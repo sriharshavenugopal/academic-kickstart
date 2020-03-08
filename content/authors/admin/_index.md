@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sriharsha Annamaneni
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Engineer, Sirenalabs
 
 # Organizations/Affiliations
 organizations:
@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:  I was a Research Fellow working under Prof C.V. Jawahar at IIIT Hyderabad. My research interests include Deep Learning, specifically Model Compression and Autonomous Navigation. I worked on Autonomous Navigation for Indian Roads.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
+- Computer Vision
 - Information Retrieval
 
 education:
