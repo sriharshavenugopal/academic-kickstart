@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Head of Communication and Groundstation subsystem"
+  company = "Parikshit student satellite team"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Manipal, India"
+  date_start = "2012-02-11"
+  date_end = "2013-12-09"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  * Programmed ADF7021-N and CC1101 RF transcievers using MSP 430 for communication between satellite and Groundstation
+  * Designed RF PCB components used in Onboard Satelilte  
+  * Built a groundstation for tracking the satellites
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "Bhabha Atomic Research Centre"
+  company_url = "http://barc.gov.in/"
+  location = "Mumbai, India"
+  date_start = "2014-01-11"
+  date_end = "2014-06-09"
+  description = "Worked on compressing Magnetic Flux leakages signals collected by Instrumented Pipeline Inspection Gauage while monitoring Oil/Gas pipelines"
+  [Thesis_Report](https://drive.google.com/file/d/0B3XT_WQy5fRtTWkxdW1hNEgyOGM/view?usp=sharing)"""
 
 +++
