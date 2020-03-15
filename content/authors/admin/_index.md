@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently working as a Research Engineer, SirenaLabs. I was a Research Fellow working under Prof C.V. Jawahar at IIIT Hyderabad. My research interests include Deep Learning, specifically Model Compression and Autonomous Navigation. I worked on Autonomous Navigation for Indian Roads.
+I am currently working as a Research Engineer, SirenaLabs. I was a Research Fellow working under Prof C.V. Jawahar at IIIT Hyderabad. My research interests include Deep Learning, specifically Model Compression and Autonomous Navigation. 
