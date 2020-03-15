@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  I was a Research Fellow working under Prof C.V. Jawahar at IIIT Hyderabad. My research interests include Deep Learning, specifically Model Compression and Autonomous Navigation. I worked on Autonomous Navigation for Indian Roads.
+bio:  I was a Research Fellow working under Prof C.V. Jawahar at IIIT Hyderabad.
+# My research interests include Deep Learning, specifically Model Compression and Autonomous Navigation. I worked on Autonomous Navigation for Indian Roads.
 
 interests:
 - Artificial Intelligence
@@ -56,10 +57,6 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf- course: PhD in Artificial Intelligence
-    institution: Stanford Universit- course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012sy
-    year: 2012
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
